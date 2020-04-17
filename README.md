@@ -15,7 +15,7 @@ I don't know me, do what you do and figure this shit out.
 
 So here I am. Learning new things. 
 Talking to myself in a repository. 
-I dont even know what a repository is
+I dont even know what a repository is. 
 I think that's why I'm here. 
 
 It says write about myself.
